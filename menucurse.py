@@ -28,9 +28,6 @@ class Menu:
 
         self.screen.refresh()
         self.select()
-            
-        
-        
 
     def select(self):
         pos = self.position

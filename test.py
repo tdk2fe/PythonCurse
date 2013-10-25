@@ -1,5 +1,3 @@
-import curses
-from time import sleep
 from menucurse import Menu
 
 CHOICES = ['Option 1',
@@ -11,4 +9,5 @@ CHOICES = ['Option 1',
 mymenu = Menu(CHOICES)
 mymenu.display()
 
+print 'Making some changes!!!'
 
