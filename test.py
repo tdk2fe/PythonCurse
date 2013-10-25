@@ -9,4 +9,5 @@ CHOICES = ['Option 1',
 mymenu = Menu(CHOICES)
 mymenu.display()
 
+print 'Making some changes!!!'
 
